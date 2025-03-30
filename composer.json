@@ -67,5 +67,11 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mycroft84/laravel-localized-routes.git"
+        }
+    ]
 }
