@@ -1,5 +1,5 @@
 {
-    "name": "codezero/laravel-localized-routes",
+    "name": "mycroft84/laravel-localized-routes",
     "description": "A convenient way to set up, manage and use localized routes in a Laravel app.",
     "keywords": [
         "php",
@@ -71,7 +71,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/mycroft84/laravel-localized-routes.git"
+            "url": "https://github.com/mycroft84/laravel-uri-translator.git"
         }
     ]
 }
